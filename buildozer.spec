@@ -1,7 +1,7 @@
 [app]
 
 # (str) Title of your application
-title = Novel Tunes
+title = الترابي بزنس
 
 # (str) Package name
 package.name = noveltunes
